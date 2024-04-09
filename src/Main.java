@@ -4,5 +4,6 @@ public class Main {
         System.out.println(FUtil.existe("F:\\GRADO\\PROGRAMACIÓN\\Intelli\\ProyectoPracticaGit\\src\\ClasePrueba.java"));
         System.out.println(FUtil.existe("F:\\GRADO\\PROGRAMACIÓN\\Intelli\\ProyectoPracticaGit\\src\\FUtil.java"));
         System.out.println(FUtil.existe("F:\\GRADO\\PROGRAMACIÓN\\Intelli\\ProyectoPracticaGit\\src\\Main.java"));
+        System.out.println(FUtil.existe(" "));
     }
 }
